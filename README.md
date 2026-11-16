@@ -8,7 +8,8 @@
 ## About
 
 I'm **Kauser Ahamed**, a freelance web designer and developer based in Dhaka,
-Bangladesh. Since 2024 I've been building websites, browser tools and Chrome
+Bangladesh, and the founder of **[Nokshify](https://nokshify.bro.bd)**.
+Since 2024 I've been building websites, browser tools and Chrome
 extensions for clients — and my own products, including a live-TV streaming
 platform and an open-source Android media player library.
 
@@ -29,5 +30,7 @@ platform and an open-source Android media player library.
 ## Get in touch
 
 - 💼 LinkedIn: [linkedin.com/in/kauser-ahamed](https://www.linkedin.com/in/kauser-ahamed/)
+- 🧑‍💻 Freelancer: [freelancer.com/u/nokshify](https://www.freelancer.com/u/nokshify)
+- 🏢 Brand: [Nokshify](https://nokshify.bro.bd)
 - 🌐 Portfolio: [kauserahamed.bro.bd](https://kauserahamed.bro.bd)
 - ✉️ Email: kauserahamed424@gmail.com
