@@ -1,6 +1,6 @@
 # Kauser Ahamed
 
-<img src="kauser-ahamed.png" alt="Kauser Ahamed — Web Designer & Developer, Dhaka, Bangladesh" width="170" align="right">
+<img src="kauser-ahamed.jpg" alt="Kauser Ahamed — Web Designer & Developer, Dhaka, Bangladesh" width="170" align="right">
 
 **Web Designer & Developer** — PHP । WordPress । Chrome Extensions & Lead Generation
 📍 Dhaka, Bangladesh · 🌐 [kauserahamed.bro.bd](https://kauserahamed.bro.bd)
